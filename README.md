@@ -15,11 +15,14 @@ Before starting, ensure you have the following installed:
 
 ```bash
 truffle compile
+```
 
-### 2. Compile Smart Contracts:
+### 2. Migrate Smart Contracts:
 
 ```bash
 truffle migrate --network development
+
+```
 
 ### 2. Running the Application:
 
