@@ -21,7 +21,6 @@ truffle compile
 
 ```bash
 truffle migrate --network development
-
 ```
 
 ### 2. Running the Application:
@@ -30,11 +29,4 @@ truffle migrate --network development
 ganache-cli 
 
 npm start
-
-
-
-
-
-
-
-
+```
