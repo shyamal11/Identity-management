@@ -11,8 +11,27 @@ Before starting, ensure you have the following installed:
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### 1. Compile Smart Contracts:
 
 ```bash
-git clone https://github.com/your-username/blockchain-identity.git
-cd blockchain-identity
+truffle compile
+
+### 2. Compile Smart Contracts:
+
+```bash
+truffle migrate --network development
+
+### 2. Running the Application:
+
+```bash
+ganache-cli 
+
+npm start
+
+
+
+
+
+
+
+
