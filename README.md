@@ -8,6 +8,7 @@ Before starting, ensure you have the following installed:
 - Node.js (v14.x or higher)
 - npm (v6.x or higher)
 - Ganache CLI
+- metaMask
 
 ## Setup Instructions
 
